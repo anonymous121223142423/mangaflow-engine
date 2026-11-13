@@ -1,4 +1,3 @@
-# For-Claude
 # MangaFlow Engine
 
 An open-source, lightweight CLI and metadata automation toolkit designed for managing digital manga archives, optimizing image pipelines, and organizing local reading libraries.
