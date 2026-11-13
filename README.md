@@ -15,7 +15,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com
-cd For-Claude
+cd mangaflow-engine
 pip install -r requirements.txt
 ```
 
